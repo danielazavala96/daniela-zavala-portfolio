@@ -373,6 +373,7 @@ nav.scrolled .menu li a:active {
 }
 
 #about .about-img img {
+	border-radius: 360px;
 	margin: 0 auto;
 	-webkit-box-shadow: -20px -19px 0px -4px #ad67ea;
 	box-shadow: -20px -19px 0px -4px #ad67ea;
@@ -607,7 +608,7 @@ svg {
 			CALL TO ACTION:
 ========================================================*/
 #call-to-action {
-	background: url("https://user-images.githubusercontent.com/45070944/55385190-320c5a80-54f2-11e9-9c55-94a3dac80ede.JPG");
+	background: url("https://user-images.githubusercontent.com/45070944/55768117-257f8900-5a41-11e9-95ba-52c75fcf6a51.png");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
