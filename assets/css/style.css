@@ -138,6 +138,7 @@ h6 {
 }
 
 .btn-bubble-gum {
+	margin-bottom: 9em;
 	margin-top: 2em;
 	margin-left: 30%;
 	background: transparent;
@@ -418,9 +419,6 @@ nav.scrolled .menu li a:active {
 /*=======================================================
 			FEATURES:
 ========================================================*/
-#features {
-	padding: 80px 0;
-}
 
 #features .feature-box h4 {
 	margin-top: 20px;
