@@ -632,6 +632,7 @@ svg {
 	background: transparent;
 	background-size: 100% 100%;
 	background-image: url(../img/bottom-wave.png);
+	margin-bottom: 3em;
 }
 
 /*=======================================================
@@ -1103,6 +1104,9 @@ footer a:active {
 	#about .container .about-content {
 		padding-top: 20px;
 	}
+	.btn-bubble-gum {
+		width: 120px;
+	}
 }
 
 @media (max-width: 992px) {
@@ -1112,8 +1116,20 @@ footer a:active {
 }
 
 @media (max-width: 798px) {
-	#home .main-slider h1 {
+	#home .main-slider h1{
 		font-size: 3rem;
+	}
+	.fadeInDown { 
+		color: #fff !important;
+	}
+	#soft-skills {
+		margin-bottom: 2em;
+	}
+	#call-to-action:after {
+		margin-bottom: 6em;
+	}
+	.quote, p {
+		color: #333333;
 	}
 }
 
