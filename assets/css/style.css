@@ -374,10 +374,12 @@ nav.scrolled .menu li a:active {
 }
 
 #about .about-img img {
-	border-radius: 360px;
+	width: 508,5px;
+	height: 445px;
+	border-radius: 0px;
 	margin: 0 auto;
-	-webkit-box-shadow: -20px -19px 0px -4px #ad67ea;
-	box-shadow: -20px -19px 0px -4px #ad67ea;
+	/*-webkit-box-shadow: -20px -19px 0px -4px #ad67ea;
+	box-shadow: -20px -19px 0px -4px #ad67ea;*/
 }
 
 #about .about-content {
@@ -1131,6 +1133,9 @@ footer a:active {
 	.quote, p {
 		color: #333333;
 	}
+	#about .about-img img {
+		width: 339px;
+		height: 296px;
 }
 
 /*=======================================================
