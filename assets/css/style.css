@@ -141,10 +141,10 @@ h6 {
 	margin-bottom: 9em;
 	margin-top: 2em;
 	margin-left: 30%;
-	background: transparent;
+	background: #ad67ea;
 	font-size: 12px;
 	padding: 15px 25px;
-	color: #ad67ea;
+	color: #fff;
 	border: 1px solid #ad67ea;
 	border-radius: 100px;
 	-webkit-transition: all .2s ease-in-out;
@@ -512,7 +512,7 @@ svg {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: rgba(173, 103, 234, 0.7);
+	background: rgba(114, 83, 141, 0.9);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -617,6 +617,10 @@ svg {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
+}
+
+#call-to-action .fadeInDown { 
+	color: #fff !important;
 }
 
 #call-to-action .btn {
