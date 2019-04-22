@@ -52,7 +52,7 @@ body {
 ========================================================*/
 
 $primary-color: #ad67ea;
-$secondary-color: #8aecec;
+$secondary-color: #559CFF;
 $white: #fff;
 $black: #000;
 $light-grey: #f5f5f7;
@@ -523,6 +523,7 @@ nav.scrolled {
 			}
 
 			.link-text {
+				margin-bottom: 3em;
 				font-size: 12px;
 				color: $white;
 				position: relative;

@@ -179,7 +179,7 @@ h6 {
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	background: #8aecec;
+	background: #559CFF;
 	color: #fff;
 	border: 1px solid #fff;
 	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -206,7 +206,7 @@ h6 {
 }
 
 .core-nav .menu li.active > a {
-	color: #8aecec;
+	color: #559CFF;
 	text-decoration: line-through;
 }
 
@@ -215,7 +215,7 @@ h6 {
 .core-nav .menu li a:focus,
 .core-nav .menu li a:active {
 	text-decoration: line-through;
-	color: #8aecec;
+	color: #559CFF;
 }
 
 nav.scrolled .menu li a {
@@ -225,7 +225,7 @@ nav.scrolled .menu li a {
 }
 
 nav.scrolled .menu li.active > a {
-	color: #8aecec;
+	color: #559CFF;
 	text-decoration: line-through;
 }
 
@@ -234,7 +234,7 @@ nav.scrolled .menu li a:hover,
 nav.scrolled .menu li a:focus,
 nav.scrolled .menu li a:active {
 	text-decoration: line-through;
-	color: #8aecec;
+	color: #559CFF;
 }
 
 /*=======================================================
@@ -328,7 +328,7 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .owl-dots div.owl-dot.active {
-	background-color: #8aecec;
+	background-color: #559CFF;
 }
 
 .slider-area:after {
@@ -533,6 +533,11 @@ svg {
 	transition: all .2s ease-in-out;
 }
 
+#portfolio .portfolio-item .item-info li {
+	list-style: none;
+	padding-bottom: 1em;
+}
+
 #portfolio .portfolio-item .item-info .heading-3 {
 	font-size: 18px;
 	font-weight: 700;
@@ -577,7 +582,7 @@ svg {
 	content: "";
 	width: 50px;
 	height: 2px;
-	background-color: #8aecec;
+	background-color: #559CFF;
 	display: block;
 	position: absolute;
 	border-radius: 100px;
@@ -887,7 +892,7 @@ svg {
 }
 
 #testimonials .owl-testimonials .owl-dots div.owl-dot.active {
-	background-color: #8aecec;
+	background-color: #559CFF;
 }
 
 /*=======================================================
@@ -961,7 +966,7 @@ svg {
 #team .social-media li:hover,
 #team .social-media li:focus,
 #team .social-media li:active {
-	background: #8aecec;
+	background: #559CFF;
 	border: 1px solid #fff;
 	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -1034,7 +1039,7 @@ svg {
 #contact .email-link:hover,
 #contact .email-link:focus,
 #contact .email-link:active {
-	color: #8aecec;
+	color: #559CFF;
 	text-decoration: line-through;
 }
 
@@ -1065,7 +1070,7 @@ svg {
 	outline: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	border: 1.5px solid #8aecec;
+	border: 1.5px solid #559CFF;
 }
 
 #contact .row .col .form-control {
@@ -1078,7 +1083,7 @@ svg {
 	outline: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	border: 1.5px solid #8aecec;
+	border: 1.5px solid #559CFF;
 }
 
 /*=======================================================
@@ -1101,7 +1106,7 @@ footer a {
 footer a:hover,
 footer a:focus,
 footer a:active {
-	color: #8aecec;
+	color: #559CFF;
 	text-decoration: line-through;
 }
 
