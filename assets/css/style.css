@@ -1139,9 +1139,17 @@ footer a:active {
 	.quote, p {
 		color: #333333;
 	}
+	.quote h3 {
+	font-size: 1.75rem;
+    color: #333333;
+	}
 	#about .about-img img {
 		width: 339px;
 		height: 296px;
+	}
+	#testimonials p {
+		color: #fff;
+	}
 }
 
 /*=======================================================
